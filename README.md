@@ -7,7 +7,7 @@
   
 </head>
 <body>
-    <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
+    <h2  align="center">Soy Torcoroma Arias Ascanio</h2>
     <img align="center" src="https://user-images.githubusercontent.com/52021560/234167395-8b12650c-49e9-44c4-8a9a-e7e130def6df.png" width="300px">
     <div class="text-center">
             <h3>Web developer Front-End</h3>
