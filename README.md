@@ -8,7 +8,7 @@
 </head>
 <body>
     <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
-    <img src="https://user-images.githubusercontent.com/52021560/234167395-8b12650c-49e9-44c4-8a9a-e7e130def6df.png" width="100px">
+    <img align="center" src="https://user-images.githubusercontent.com/52021560/234167395-8b12650c-49e9-44c4-8a9a-e7e130def6df.png" width="100px">
     <div class="text-center">
             <h3>Web developer Front-End</h3>
             <h3>Habilidades</h3>
