@@ -10,7 +10,7 @@
       <div   align="center" >
     <img align="center" src="https://www.actualiza.es/wp-content/uploads/2021/09/bitxilore-floristas.jpg" width="70%"   height="300vh" >
       <h2  align="center">Soy Torcoroma Arias Ascanio <br/> Web developer Front-End</h2>
-                <h2  align="center"> Web developer Front-End</h2>
+                <h2  align="center">Css3,  Html5,  JavaScript,  Bootstrap</h2>
           <div>
                   
             <h3>Habilidades</h3>
