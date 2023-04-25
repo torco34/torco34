@@ -11,7 +11,7 @@
     <div class="">
             <h3>Web developer Front-End</h3>
             <h3>Habilidades</h3>
-    <p>css html5 javascript bootstrap</p>
+    <h3>css html5 javascript bootstrap</p>
         
     </div>
   
