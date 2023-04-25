@@ -8,7 +8,7 @@
 </head>
 <body>
     <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
-    <div class="">
+    <div class="text-center">
             <h3>Web developer Front-End</h3>
             <h3>Habilidades</h3>
     <h3>css html5 javascript bootstrap</p>
