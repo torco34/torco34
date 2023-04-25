@@ -8,7 +8,7 @@
 </head>
 <body>
       <div   align="center" >
-    <img align="center" src="https://www.actualiza.es/wp-content/uploads/2021/09/bitxilore-floristas.jpg" width="70%"   height="300vh" >
+    <img align="center" src="![image](https://user-images.githubusercontent.com/52021560/234172631-55a8e9a5-198f-49ba-b2f5-f21e5f159cf3.png)" width="70%"   height="300vh" >
       <h2  align="center">Soy Torcoroma Arias Ascanio <br/> Web developer Front-End</h2>
                 <h2  align="center">Css3,  Html5,  JavaScript,  Bootstrap</h2>
           <div>
