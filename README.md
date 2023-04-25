@@ -8,13 +8,11 @@
 </head>
 <body>
       <div   align="center" >
-    <img align="center" src="https://www.ikusi.com/wp-content/uploads/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg" width="70%"   height="300vh" >
+    <img align="center" src="https://www.ikusi.com/wp-content/uploads/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg" width="70%"   height="200vh" >
       <h2  align="center">Soy Torcoroma Arias Ascanio <br/> Web developer Front-End</h2>
                 <h2  align="center">Css3,  Html5,  JavaScript,  Bootstrap</h2>
           <div>
                   
-            <h3>Habilidades</h3>
-    <h3>Css3, Html5, JavaScript Bootstrap</h3></div>
     </div>
   
 </body>
