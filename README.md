@@ -9,8 +9,11 @@
 <body>
     <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
     <div class="">
-            <h3>Web developer frontend</h3>
+            <h3>Web developer Front-End</h3>
+        
     </div>
+      <h3>Habilidades</h3>
+    <p>css html5 javascript bootstrap</p>
 </body>
 </html>
 
