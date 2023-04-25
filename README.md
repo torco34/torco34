@@ -7,7 +7,7 @@
   
 </head>
 <body>
-    <h2 class="text-center">Soy Torcoroma Arias Ascanio</h2>
+    <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
     <div class="">
         <img src="" alt="">
     </div>
