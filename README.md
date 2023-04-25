@@ -9,7 +9,7 @@
 <body>
     <h2 aling="center">Soy Torcoroma Arias Ascanio</h2>
     <div class="">
-        <img src="" alt="">
+            <h3>Web developer frontend</h3>
     </div>
 </body>
 </html>
