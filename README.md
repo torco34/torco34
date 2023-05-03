@@ -13,8 +13,7 @@
                 <h2  align="center">Css3,  Html5,  JavaScript,  Bootstrap</h2>
           </div>
                   
-    <div>
-    /github/gist/last-commit/:gistId</div>
+  
   
 </body>
 </html>
