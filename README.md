@@ -8,7 +8,7 @@
 </head>
 <body>
       <div   align="center" >
-    <img align="center" src="[https://www.ikusi.com/wp-content/uploads/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg](https://img.freepik.com/vector-gratis/desarrollo-web-ingenieria-programadores-sitio-web-codificacion-pantallas-interfaz-realidad-aumentada-desarrollador-ingeniero-proyectos-software-programacion-o-diseno-aplicaciones-ilustracion-dibujos-animados_107791-3863.jpg)" width="70%"   height="200vh" >
+    <img align="center" src="" width="70%"   height="200vh" >
       <h2  align="center">Soy Torcoroma Arias Ascanio <br/> Web developer Front-End</h2>
                 <h2  align="center">Css3,  Html5,  JavaScript,  Bootstrap</h2>
           </div>
