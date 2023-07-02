@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <div align="center">
-        <img align="center" src="https://c8.alamy.com/compes/2bt15x2/ilustracion-conceptual-de-la-tecnologia-de-desarrollo-de-sitios-web-moviles-diseno-de-paginas-de-internet-de-sitio-de-diseno-en-pantalla-telefono-software-de-programacion-de-2bt15x2.jpg" width="70%" height="200vh">
+
         <h2 align="center">I'm Torcoroma Arias Ascanio<br/>Web developer Front-End</h2>
         <h2 align="center">Css3, Html5, JavaScript, Bootstrap, React.js y TypeScript</h2>
     
