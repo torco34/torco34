@@ -17,15 +17,20 @@
         <li>Bootstrapt</li>
         <li>Css3</li>
         <li>HTML5</li>
+        <h2> 🟢Contacto: </h2> 
+       <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
+           Portafolio: https://torco34.github.io/portafolio/
+       </p> 
         <h2> 🟢Experiencia actual</h2>
-        <p>Actualmente, estoy trabajando en la creacion de la aplicacion TalentLogy</p>   
+        <p>Actualmente, estoy trabajando en la creación de una aplicación llamada TalentLogy. Desde que comencé este proyecto, he estado dedicando mi tiempo y esfuerzo para desarrollar una plataforma 
+         innovadora que conecte a personas con talentos excepcionales con oportunidades laborales que se adapten a sus habilidades únicas.</p>   
         <h2> 🟢Aprendizaje: </h2> 
-        <p>AEstoy aprendiendo ingles cuento </p> 
+        <p>Actualmente estoy aprendiendo inglés y estoy emocionado por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
+         aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
        <h2> 🟢Colaboración: </h2> 
-       <p>AEstoy buscando colaborar en </p> 
-       <h2> 🟢Contacto: </h2> 
-      <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ </p> 
-     <p>Portafolio: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ </p> 
+       <p>Soy un apasionado desarrollador web en busca de emocionantes oportunidades para colaborar en equipos de tecnología. Tengo una sólida experiencia en el desarrollo de sitios web y aplicaciones, 
+         y disfruto trabajar en proyectos desafiantes que me permitan utilizar mi creatividad y habilidades técnicas.</p> 
+
 -
 </div>
 </body>
