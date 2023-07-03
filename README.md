@@ -13,7 +13,6 @@
         <li>JavaScript</li>
         <li> React.js</li>
         <li>TypeScript</li>
-        <li>TypeScript</li>
         <li>Bootstrapt</li>
         <li>Css3</li>
         <li>HTML5</li>
