@@ -24,7 +24,7 @@
         <p>Actualmente, estoy trabajando en la creación de una aplicación llamada TalentLogy. Desde que comencé este proyecto, he estado dedicando mi tiempo y esfuerzo para desarrollar una plataforma 
          innovadora que conecte a personas con talentos excepcionales con oportunidades laborales que se adapten a sus habilidades únicas.</p>   
         <h2> 🟢Aprendizaje: </h2> 
-        <p>Actualmente estoy aprendiendo inglés y estoy emocionado por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
+        <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
          aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
        <h2> 🟢Colaboración: </h2> 
        <p>Soy un apasionado desarrollador web en busca de emocionantes oportunidades para colaborar en equipos de tecnología. Tengo una sólida experiencia en el desarrollo de sitios web y aplicaciones, 
