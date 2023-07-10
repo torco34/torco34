@@ -14,6 +14,8 @@
         <li> React.js</li>
         <li>TypeScript</li>
         <li>Bootstrapt</li>
+         <li>Git</li>
+        <li>GitHub</li>
         <li>Css3</li>
         <li>HTML5</li>
         <h2> 🟢Contacto: </h2> 
