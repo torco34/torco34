@@ -22,15 +22,15 @@
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
            Portafolio: https://torco34.github.io/portafolio/
        </p> 
-        <h2> 🟢Proyectos</h2>
-           <h2> Aprendizaje en TalentLogy</h2> 
+        <h2> 🟢PROYECTOS</h2>
          <h3> EJERCICIO DE LOGICA </h3> 
-        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM  
-               <span> 🟢  inicio 28/02/2023 - finalizar 10/04/2023 </span>
+        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM 
         </p>  
+         <span> -  inicio 28/02/2023 - finalizar 10/04/2023 </span>
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
-        <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
-         aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
+           <h3> APRENDIZAJE DE BOOTSTRAP </h3> 
+        <p>A lo largo del proyecto, aproveché al máximo las características de Bootstrap. El objetivo principal de este proyecto es practicar.
+Sistema de Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
        <h2> 🟢Colaboración: </h2> 
        <p>Soy un apasionado desarrollador web en busca de emocionantes oportunidades para colaborar en equipos de tecnología. Tengo una sólida experiencia en el desarrollo de sitios web y aplicaciones, 
          y disfruto trabajar en proyectos desafiantes que me permitan utilizar mi creatividad y habilidades técnicas.</p> 
