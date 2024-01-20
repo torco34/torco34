@@ -10,7 +10,7 @@
         <h1 > Torcoroma Arias Ascanio</h1>
         <h2>Web developer Front-End</h2>
         <h2>🟢 Tecnologías:</h2>
-        <li>JavaScript</li>
+        <li class="btn-info">JavaScript</li>
         <li> React.js</li>
         <li>TypeScript</li>
         <li>Bootstrapt</li>
