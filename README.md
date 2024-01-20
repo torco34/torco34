@@ -26,7 +26,7 @@
            <h2> Aprendizaje en TalentLogy</h2> 
          <h3> EJERCICIO DE LOGICA </h3> 
         <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM  
-         <span> inicio 28/02/2023 - finalizar 10/04/2023 </span>
+               <span> 🟢  inicio 28/02/2023 - finalizar 10/04/2023 </span>
         </p>  
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
         <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
