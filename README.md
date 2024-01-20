@@ -33,13 +33,22 @@
           Sistema de Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
         <li>inicio 28/04/2023 - finalizar 10/05/2023</li>
     <p>https://torco34.github.io/bootstrap-web/#galeria/</p>
-<div>        <h3>MANIPULACIÓN DEL DOM</h3>
-       <p>e desarrollado y diseñado mi propio portafolio en línea para destacar mis habilidades y proyectos en el campo del desarrollo web. Utilizando tecnologías modernas como HTML, CSS y JavaScript, creé una interfaz visualmente atractiva y receptiva.</p> 
-       <li> inicio 16/05/2023 - finalizar 4/06/2023 </li>
-      <p>https://torco34.github.io/portafolio/</p>
+<div>  
+    <h3>MANIPULACIÓN DEL DOM</h3>
+       <p>He desarrollado y diseñado mi propio portafolio en línea para destacar mis habilidades y proyectos en el campo del desarrollo web. Utilizando tecnologías modernas como HTML, CSS y JavaScript, 
+           creé una interfaz visualmente atractiva y receptiva.</p> 
+       <li>inicio 16/06/2023 - finalizar 4/07/2023</li>
+      <p>https://torco34.github.io/administradorTareasTalentLogy/</p>
+</div>
+<div>  
+    <h3>MANIPULACIÓN DEL DOM</h3>
+       <p>He desarrollado y diseñado mi propio portafolio en línea para destacar mis habilidades y proyectos en el campo del desarrollo web. Utilizando tecnologías modernas como HTML, CSS y JavaScript, 
+           creé una interfaz visualmente atractiva y receptiva.</p> 
+       <li>inicio 16/06/2023 - finalizar 4/07/2023</li>
+      <p>https://torco34.github.io/administradorTareasTalentLogy/</p>
 </div>
 
--
+
 </div>
 </body>
 </html>
