@@ -16,14 +16,12 @@
      <li>React.js</li>
      <li>Bootstrap,</li>
      <li>GitHub,</li>
-     <li><h3>Css3</h3></li>
-    <li><h3>test</h3></li>
+     <li>Css3</li>
+
 </ul>
-     
-        <h2> Contacto: </h2> 
-       <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
-           Portafolio: https://torco34.github.io/portafolio/
-       </p> 
+<hr> 
+   <h2> Contacto: </h2> 
+       <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br> </p> 
         <h2>PROYECTOS:</h2>
          <h3> EJERCICIO DE LÓGICA </h3> 
         <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
