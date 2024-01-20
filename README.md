@@ -16,10 +16,10 @@
      <li>React.js</li>
      <li>Bootstrap,</li>
      <li>GitHub,</li>
-     <li>Css3</li>
-    <li><h3> test</h3></li>
+     <li><h3>Css3</h3></li>
+    <li><h3>test</h3></li>
 </ul>
-        <h3>    SS3 </h3>
+     
         <h2> Contacto: </h2> 
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
            Portafolio: https://torco34.github.io/portafolio/
