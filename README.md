@@ -57,21 +57,21 @@
 <div>  
     <h2>APP ESTUDIANTIL</h2>
        <p>Practicas biblioteca React Hook Form validacion tiempo real, useFieldArray formulario dinamico</p> 
-       <h3> Inicio 02/12/2023 - finalizar 4/01/2024 </h3>
+       <h4> Inicio 02/12/2023 - finalizar 4/01/2024 </h4>
       <p>https://torco34.github.io/react-hook-form/</p>
 </div>
 <hr>
 <div>  
     <h3>APP CREADOR DE TAREAS</h3>
        <p>Practicas hooks de React, como useState,  useEffect y useContext</p> 
-       <h3> Inicio 02/03/2023 - finalizar 4/05/2023 </h3>
+       <h4> Inicio 02/03/2023 - finalizar 4/05/2023 </h4>
       <p>https://torco34.github.io/react-hook-form/</p>
 </div>
         <hr>
 <div>  
     <h3>API RICK AND MORTY</h3> 
        <p>Consumiendo datos de la API mediante solicitudes </p> 
-       <h3> inicio 02/03/2022 - finalizar 4/05/2022 </h3>
+       <h4> inicio 02/03/2022 - finalizar 4/05/2022 </h4>
       <p>https://torco34.github.io/appRickAndMorty/</p>
 </div>
 
