@@ -22,9 +22,9 @@
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
            Portafolio: https://torco34.github.io/portafolio/
        </p> 
-        <h2> 🟢Experiencia actual</h2>
+        <h2> 🟢Proyectos</h2>
         <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM</p>   
-        <h2> EjerciciosDeLogica  </h2> 
+        <h2> AprendizajeTalentLogy</h2> 
         <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
          aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
        <h2> 🟢Colaboración: </h2> 
