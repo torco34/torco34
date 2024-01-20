@@ -23,29 +23,25 @@
            Portafolio: https://torco34.github.io/portafolio/
        </p> 
         <h2> 🟢PROYECTOS</h2>
-         <h3> EJERCICIO DE LOGICA </h3> 
-        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM 
-        </p>  
+         <h3> EJERCICIO DE LÓGICA </h3> 
+        <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
          <li>  inicio 28/02/2023 - finalizar 10/04/2023 </li>
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
            <h3> APRENDIZAJE DE BOOTSTRAP </h3> 
-        <p>A lo largo del proyecto, aproveché al máximo las características de Bootstrap. El objetivo principal de este proyecto es practicar.
-          Sistema de Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
+        <p>Practicas de las Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
         <li>inicio 28/04/2023 - finalizar 10/05/2023</li>
     <p>https://torco34.github.io/bootstrap-web/#galeria/</p>
 <div>  
     <h3>MANIPULACIÓN DEL DOM</h3>
-       <p>He desarrollado y diseñado mi propio portafolio en línea para destacar mis habilidades y proyectos en el campo del desarrollo web. Utilizando tecnologías modernas como HTML, CSS y JavaScript, 
-           creé una interfaz visualmente atractiva y receptiva.</p> 
+       <p>Crear tableros, agregar tarjetas, editarlas y eliminarlas. Poniendo en practica DOM de JavaScript</p> 
        <li>inicio 16/06/2023 - finalizar 4/07/2023</li>
       <p>https://torco34.github.io/administradorTareasTalentLogy/</p>
 </div>
 <div>  
     <h3>MANIPULACIÓN DEL DOM</h3>
-       <p>He desarrollado y diseñado mi propio portafolio en línea para destacar mis habilidades y proyectos en el campo del desarrollo web. Utilizando tecnologías modernas como HTML, CSS y JavaScript, 
-           creé una interfaz visualmente atractiva y receptiva.</p> 
-       <li>inicio 16/06/2023 - finalizar 4/07/2023</li>
-      <p>https://torco34.github.io/administradorTareasTalentLogy/</p>
+       <p>Practicas del DOM creacion de tareas en card.</p> 
+       <li>inicio 6/07/2023 - finalizar 28/07/2023</li>
+      <p> https://torco34.github.io/tabla-tareas-TalentLogy/</p>
 </div>
 
 
