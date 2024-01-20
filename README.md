@@ -23,8 +23,10 @@
            Portafolio: https://torco34.github.io/portafolio/
        </p> 
         <h2> 🟢Proyectos</h2>
-        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM</p>   
-        <h2> AprendizajeTalentLogy</h2> 
+           <h2> Aprendizaje en TalentLogy</h2> 
+         <h3> EJERCICIO DE LOGICA </h3> 
+        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM</p>  
+        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
         <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
          aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
        <h2> 🟢Colaboración: </h2> 
