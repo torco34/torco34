@@ -28,14 +28,14 @@
          <hr>
          <h2> EJERCICIO DE LÓGICA </h2> 
         <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
-         <h4>  inicio 28/02/2023 - finalizar 10/04/2023 </h4>
+         <h4> Inicio 28/02/2023 - finalizar 10/04/2023 </h4>
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
 </div>
         <hr>
  <div>  
   <h2> APRENDIZAJE DE BOOTSTRAP </h2> 
         <p>Practicas de las Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
-        <h4>inicio 28/04/2023 - finalizar 10/05/2023</h4>
+        <h4>Inicio 28/04/2023 - finalizar 10/05/2023</h4>
     <p>https://torco34.github.io/bootstrap-web/#galeria/</p>
 </div>
 <hr>
@@ -49,15 +49,29 @@
 <div>  
     <h2>MANIPULACIÓN DEL DOM</h2>
        <p>Practicas del DOM creacion de tareas en card con JavaScript Vanilla.</p> 
-       <h4>inicio 6/07/2023 - finalizar 28/07/2023</h4>
+       <h4>Inicio 6/07/2023 - finalizar 28/07/2023</h4>
       <p> https://torco34.github.io/tabla-tareas-TalentLogy/</p>
 </div>
         <h2>REACT.JS</h2>
 <div>  
     <h3>App estudiantil</h3>
        <p>Practicas biblioteca React Hook Form validacion tiempo real, useFieldArray formulario dinamico</p> 
-       <h4> inicio 02/12/2023 - finalizar 4/01/2024 </h4>
+       <h3> Inicio 02/12/2023 - finalizar 4/01/2024 </h3>
       <p>https://torco34.github.io/react-hook-form/</p>
+</div>
+<hr>
+<div>  
+    <h3>App creador de tareas</h3>
+       <p>Practicas hooks de React, como useState,  useEffect y useContext</p> 
+       <h3> Inicio 02/03/2023 - finalizar 4/05/2023 </h3>
+      <p>https://torco34.github.io/react-hook-form/</p>
+</div>
+        <hr>
+<div>  
+    <h3>API de Rick and Morty</h3> API RICK AND MORTY
+       <p>Consumiendo datos de la API mediante solicitudes </p> 
+       <h3> inicio 02/03/2022 - finalizar 4/05/2022 </h3>
+      <p>https://torco34.github.io/appRickAndMorty/</p>
 </div>
 
 </div>
