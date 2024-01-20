@@ -10,24 +10,27 @@
         <h1 > Torcoroma Arias Ascanio</h1>
         <h2>Web developer Front-End</h2>
         <h2> Tecnologías:</h2>
-<ul>
+<div>
+ <ul>
     <li>JavaScript </li>
     <li>TypeScript,</li>
      <li>React.js</li>
      <li>Bootstrap,</li>
      <li>GitHub,</li>
      <li>Css3</li>
-
 </ul>
+</div>
 <hr> 
-   <h2> Contacto: </h2> 
+<div>
+       <h2> Contacto: </h2> 
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br> </p> 
         <h2>PROYECTOS:</h2>
          <h2> EJERCICIO DE LÓGICA </h2> 
         <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
          <li>  inicio 28/02/2023 - finalizar 10/04/2023 </li>
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
-         
+</div>
+        <hr>
  <div>  
   <h2> APRENDIZAJE DE BOOTSTRAP </h2> 
         <p>Practicas de las Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
