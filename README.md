@@ -24,6 +24,7 @@
 <div>
        <h2> Contacto: </h2> 
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br> </p> 
+    <h3> PORTAFOLIO: https://torco34.github.io/portafolio/</h3>
         <h2>PROYECTOS:</h2>
          <hr>
          <h2> EJERCICIO DE LÓGICA </h2> 
