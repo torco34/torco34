@@ -23,9 +23,8 @@
            Portafolio: https://torco34.github.io/portafolio/
        </p> 
         <h2> 🟢Experiencia actual</h2>
-        <p>Actualmente, estoy trabajando en la creación de una aplicación llamada TalentLogy. Desde que comencé este proyecto, he estado dedicando mi tiempo y esfuerzo para desarrollar una plataforma 
-         innovadora que conecte a personas con talentos excepcionales con oportunidades laborales que se adapten a sus habilidades únicas.</p>   
-        <h2> 🟢Aprendizaje: </h2> 
+        <p>El objetivo principal de este proyecto es mejorar mis habilidades de   programación y lógica al resolver una serie de ejercicios utilizando JavaScript, Css, HTML y DOM</p>   
+        <h2> EjerciciosDeLogica  </h2> 
         <p>Actualmente estoy aprendiendo inglés y estoy emocionada por los avances que he logrado hasta ahora. Cada día dedico tiempo a estudiar vocabulario nuevo y practicar la pronunciación con una 
          aplicación móvil. También estoy tomando clases en línea para aprender la gramática y las estructuras de las oraciones en inglés.</p> 
        <h2> 🟢Colaboración: </h2> 
