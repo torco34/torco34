@@ -9,15 +9,8 @@
     <div align="">
         <h1 > Torcoroma Arias Ascanio</h1>
         <h2>Web developer Front-End</h2>
-        <h2>🟢 Tecnologías:</h2>
-        <h3>JavaScript, React.js  TypeScript, Bootstrapt </h3>
-        <li> React.js</li>
-        <li>TypeScript</li>
-        <li>Bootstrapt</li>
-         <li>Git</li>
-        <li>GitHub</li>
-        <li>Css3</li>
-        <li>HTML5</li>
+        <h2><li></li> Tecnologías:</h2>
+        <h3>JavaScript, React.js  TypeScript, Bootstrap, GitHub, cSS3 </h3>
         <h2> 🟢Contacto: </h2> 
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br>
            Portafolio: https://torco34.github.io/portafolio/
