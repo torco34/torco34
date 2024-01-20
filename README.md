@@ -28,35 +28,35 @@
          <hr>
          <h2> EJERCICIO DE LÓGICA </h2> 
         <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
-         <li>  inicio 28/02/2023 - finalizar 10/04/2023 </li>
+         <h4>  inicio 28/02/2023 - finalizar 10/04/2023 </h4>
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
 </div>
         <hr>
  <div>  
   <h2> APRENDIZAJE DE BOOTSTRAP </h2> 
         <p>Practicas de las Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
-        <li>inicio 28/04/2023 - finalizar 10/05/2023</li>
+        <h4>inicio 28/04/2023 - finalizar 10/05/2023</h4>
     <p>https://torco34.github.io/bootstrap-web/#galeria/</p>
 </div>
 <hr>
 <div>  
     <h2>MANIPULACIÓN DEL DOM</h2>
        <p>Crear tableros, agregar tarjetas, editarlas y eliminarlas. Poniendo en practica DOM de JavaScript</p> 
-       <li>inicio 16/06/2023 - finalizar 4/07/2023</li>
+       <h4>inicio 16/06/2023 - finalizar 4/07/2023</h4>
       <p>https://torco34.github.io/administradorTareasTalentLogy/</p>
 </div>
 <hr>
 <div>  
     <h2>MANIPULACIÓN DEL DOM</h2>
        <p>Practicas del DOM creacion de tareas en card con JavaScript Vanilla.</p> 
-       <li>inicio 6/07/2023 - finalizar 28/07/2023</li>
+       <h4>inicio 6/07/2023 - finalizar 28/07/2023</h4>
       <p> https://torco34.github.io/tabla-tareas-TalentLogy/</p>
 </div>
         <h2>REACT.JS</h2>
 <div>  
     <h3>App estudiantil</h3>
        <p>Practicas biblioteca React Hook Form validacion tiempo real, useFieldArray formulario dinamico</p> 
-       <li><h2> inicio 02/12/2023 - finalizar 4/01/2024 </h2></li>
+       <h4> inicio 02/12/2023 - finalizar 4/01/2024 </h4>
       <p>https://torco34.github.io/react-hook-form/</p>
 </div>
 
