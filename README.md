@@ -29,7 +29,7 @@
        <p>https://torco34.github.io/aprendizajeTalentLogy/</p>
          
  <div>  
-  <h3> APRENDIZAJE DE BOOTSTRAP </h3> 
+  <h2> APRENDIZAJE DE BOOTSTRAP </h2> 
         <p>Practicas de las Grillas, Componentes de Interfaz de Usuario, Estilos Personalizados, Imágenes y Carrusel.</p> 
         <li>inicio 28/04/2023 - finalizar 10/05/2023</li>
     <p>https://torco34.github.io/bootstrap-web/#galeria/</p>
