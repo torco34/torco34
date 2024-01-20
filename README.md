@@ -25,6 +25,7 @@
        <h2> Contacto: </h2> 
        <p>Linkedin: https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/ <br> </p> 
         <h2>PROYECTOS:</h2>
+         <hr>
          <h2> EJERCICIO DE LÓGICA </h2> 
         <p> Series de ejercicios utilizando JavaScript, Css, HTML y DOM </p>  
          <li>  inicio 28/02/2023 - finalizar 10/04/2023 </li>
@@ -51,12 +52,12 @@
        <li>inicio 6/07/2023 - finalizar 28/07/2023</li>
       <p> https://torco34.github.io/tabla-tareas-TalentLogy/</p>
 </div>
-        <h2> 🟢PROYECTOS CON REACT.JS</h2>
+        <h2>REACT.JS</h2>
 <div>  
-    <h3>MANIPULACIÓN DEL DOM</h3>
-       <p>Practicas del DOM creacion de tareas en card con JavaScript Vanilla.</p> 
-       <li>inicio 6/07/2023 - finalizar 28/07/2023</li>
-      <p> https://torco34.github.io/tabla-tareas-TalentLogy/</p>
+    <h3>App estudiantil</h3>
+       <p>Practicas biblioteca React Hook Form validacion tiempo real, useFieldArray formulario dinamico</p> 
+       <li><h2> inicio 02/12/2023 - finalizar 4/01/2024 </h2></li>
+      <p>https://torco34.github.io/react-hook-form/</p>
 </div>
 
 </div>
