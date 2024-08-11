@@ -46,9 +46,9 @@
                 <a href="https://torco34.github.io/administradorTareasTalentLogy/">Ver Proyecto</a>
             </li>
             <li>
-                <strong>React.js - App Estudiantil:</strong> Prácticas con React Hook Form, validación en tiempo real y formularios dinámicos <br>
-                <small>Inicio: 02/12/2023 - Finalización: 04/01/2024</small><br>
-                <a href="https://torco34.github.io/react-hook-form/">Ver Proyecto</a>
+                <strong>Artistas web:</strong>  <br>
+                <small>Inicio: 02/12/2023 - Finalización: 04/01/2024</small>Esta página fue creada para manipular CSS y HTML utilizando JavaScript puro (vanilla JS).<br>
+                <a href="https://torco34.github.io/artistas-web/">Ver Proyecto</a>
             </li>
             <li>
                 <strong>API Rick and Morty:</strong> Consumiendo datos de la API <br>
