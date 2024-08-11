@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div align="center">
+    <div align="">
         <h1>Torcoroma Arias Ascanio</h1>
         <h2>Web Developer Front-End</h2>
         <h3>Tecnologías:</h3>
