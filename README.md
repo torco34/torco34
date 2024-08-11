@@ -15,7 +15,7 @@
         </ul>
         <h3>Contacto:</h3>
         <p>
-            <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">Torcoroma Arias Ascanio</a><br>
+            <strong>LinkedIn:</strong><i class="fab fa-linkedin"> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">Torcoroma Arias Ascanio</a><br>
             <strong>Portafolio:</strong> <a href="https://torco34.github.io/portafolio/">torco34.github.io/portafolio</a>
         </p>
         <h3>Proyectos:</h3>
