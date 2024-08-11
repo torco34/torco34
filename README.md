@@ -13,9 +13,11 @@
             <li>GitHub</li>
             <li>CSS3</li>
         </ul>
-     <h2>Contacto:</h2>
-            <h3><i class="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank">Torcoroma Arias Ascanio</a></h3>
-            <h3><i class="fas fa-briefcase"></i> Portafolio: <a 
+            <h3>Contacto:</h3>
+        <p>
+            <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">Torcoroma Arias Ascanio</a><br>
+            <strong>Portafolio:</strong> <a href="https://torco34.github.io/portafolio/">torco34.github.io/portafolio</a>
+        </p>
         <h3>Proyectos:</h3>
         <ul>
             <li>
