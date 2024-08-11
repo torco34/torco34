@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Torcoroma Arias Ascanio - Web Developer</title>
+  
 </head>
 
 <body>
@@ -17,6 +17,8 @@
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>React.js</li>
+            <li>Vue.js</li>
+            <li>Quasar</li>
             <li>Bootstrap</li>
             <li>GitHub</li>
             <li>CSS3</li>
