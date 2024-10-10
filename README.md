@@ -1,5 +1,5 @@
 <body>
-    <div align="center">
+    <div >
         <h1>Torcoroma Arias Ascanio</h1>
         <h2>Web Developer Front-End</h2>
         <h2>Tecnologías:  JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h2>
