@@ -5,9 +5,9 @@
         <h2> Tecnologías:  💻 </h2>
         <h3>JavaScript ☕️ <br> TypeScrip t🟦 <br>  React.js  ⚡ <br>  Vue.js 🌿 <br>  Quasar 🌌 <br>CSS3 🎨  <br>Bootstrap 🎨 <br> GitHub 🐙</h3>
         <hr>
-        <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio 💼  </a><br>
-        <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn 🔗 </a><br>
-        <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">  CV 📄</a>
+        <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio  💼  </a><br>
+        <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn  🔗 </a><br>
+        <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">CV  📄</a>
         <hr>
         <h3> Proyectos de JavaScript! 🌟 🚀<h3>
         <ul>
