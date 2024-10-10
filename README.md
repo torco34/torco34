@@ -2,7 +2,7 @@
     <div >
         <h1>Torcoroma Arias Ascanio</h1>
         <h2>Web Developer Front-End</h2>
-        <h2>Tecnologías:  JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h2>
+        <h2>Tecnologías: <br> JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h2>
         <h3>Contacto</h3>
     <ul>
         <li><a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio</a></li>
