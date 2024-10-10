@@ -13,12 +13,9 @@
             <li>GitHub</li>
             <li>CSS3</li>
         </ul>
-            <h3>Contacto:</h3>
-        <p>
-            <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">Torcoroma Arias Ascanio</a><br>
-            <strong>Portafolio:</strong> <a href="https://torco34.github.io/portafolio/">torco34.github.io/portafolio</a>
-        </p>
-                                    <a href="https://torco34.github.io/aprendizajeTalentLogy/">)Portafolio</a>
+        <a href="https://torco34.github.io/aprendizajeTalentLogy/">)Portafolio</a>
+        <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">>LinkedIn</a>
+         <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf">>CV</a>                         
         <h3>Proyectos:</h3>
         <ul>
             <li>
