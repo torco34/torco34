@@ -1,14 +1,14 @@
 <body>
-    <div align="">
+    <div align="center">
         <h1>Torcoroma Arias Ascanio</h1>
         <h2>Web Developer Front-End</h2>
         <h2>Tecnologías:  JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h2>
         <h3>Contacto</h3>
-        <ul>
-            <li><a href="https://torco34.github.io/portafolio/">Portafolio</a></li>
-            <li> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">LinkedIn</a></li>
-            <li><a href="https://torco34.github.io/portafolio/img/cvTorco.pdf">CV</a>   </li>
-        </ul>            
+    <ul>
+        <li><a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio</a></li>
+        <li><a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+        <li><a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">CV</a></li>
+    </ul>
         <h3>Proyectos:</h3>
         <ul>
             <li>
