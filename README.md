@@ -2,10 +2,10 @@
     <div align="">
         <h1>Torcoroma Arias Ascanio</h1>
         <h2>Web Developer Front-End</h2>
-        <h3>Tecnologías:</h3>
-        <h3> JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h3>h3>
+        <h2>Tecnologías:</h2>
+        <h3> JavaScript, TypeScript, React.js, Vue.js, Quasar, Bootstrap, GitHub, CSS3 </h3>
         <ul>
-            <li><a href="https://torco34.github.io/aprendizajeTalentLogy/">Portafolio</a></li>
+            <li><a href="https://torco34.github.io/portafolio/">Portafolio</a></li>
             <li> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">LinkedIn</a></li>
             <li><a href="https://torco34.github.io/portafolio/img/cvTorco.pdf">CV</a>   </li>
         </ul>            
