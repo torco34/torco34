@@ -5,7 +5,7 @@
         <h2>Tecnologías: <br> JavaScript, TypeScript, React.js, Vue.js, <br> Quasar, Bootstrap, GitHub, CSS3 </h2>
         <h3>Contacto</h3>
     <ul>
-        <li><a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio</a></li>
+        <li><a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">[💼 Portafolio]Portafolio</a></li>
         <li><a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
         <li><a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">CV</a></li>
     </ul>
