@@ -17,6 +17,7 @@
         <p>
             <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/">Torcoroma Arias Ascanio</a><br>
             <strong>Portafolio:</strong> <a href="https://torco34.github.io/portafolio/">torco34.github.io/portafolio</a>
+                            <a href="https://torco34.github.io/aprendizajeTalentLogy/">)Portafolio</a>
         </p>
         <h3>Proyectos:</h3>
         <ul>
