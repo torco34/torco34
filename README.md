@@ -1,18 +1,18 @@
 <body>
     <div >
         <h1>Torcoroma Arias Ascanio</h1>
-        <h2>Web Developer Front-End</h2>
-        <h2>Tecnologías: <br> JavaScript, TypeScript, React.js, Vue.js, <br> Quasar, Bootstrap, GitHub, CSS3 </h2>
-        <h3>Contacto</h3>
-    <ul>
-        <li><a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">[💼 Portafolio]Portafolio</a></li>
-        <li><a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-        <li><a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">CV</a></li>
-    </ul>
-        <h3>Proyectos:</h3>
+        <h2>  Web Developer Front-End 👨‍💻 🌐</h2>
+        <h2> Tecnologías:  💻 </h2>
+        <h3>JavaScript ☕️ <br> TypeScrip t🟦 <br>  React.js  ⚡ <br>  Vue.js 🌿 <br>  Quasar 🌌 <br>CSS3 🎨  <br>Bootstrap 🎨 <br> GitHub 🐙</h3>
+        <hr>
+        <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio 💼  </a><br>
+        <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn 🔗 </a><br>
+        <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">  CV 📄</a>
+        <hr>
+        <h3> Proyectos de JavaScript! 🌟 🚀<h3>
         <ul>
             <li>
-                <strong>Ejercicio de Lógica:</strong> Series de ejercicios utilizando JavaScript, CSS, HTML y DOM <br>
+                <strong>Ejercicio de Lógica:</strong>  Series de ejercicios utilizando JavaScript, CSS, HTML y DOM <br>
                 <small>Inicio: 28/02/2023 - Finalización: 10/04/2023</small><br>
                 <a href="https://torco34.github.io/aprendizajeTalentLogy/">Ver Proyecto</a>
             </li>
