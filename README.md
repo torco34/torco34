@@ -1,7 +1,8 @@
 <body>
     <div >
         <h1>Torcoroma Arias Ascanio</h1>
-        <h2> Front-End Web Develope 👨‍💻 🌐  Additionally, I use Node.js, MongoDB, and NestJS to build complete web applications and improve my understanding of web development. </h2>
+        <h2> Front-End Web Develope 👨‍💻 🌐</h2>
+         <h3> Additionally, I use Node.js, MongoDB, and NestJS to build complete web applications and improve my understanding of web development. </h3>
         <h2> Tecnologías:  💻 </h2>
         <h3>JavaScript ☕️ <br> TypeScrip t🟦 <br>  React.js  ⚡ <br>  Vue.js 🌿 <br>  Quasar 🌌 <br>CSS3 🎨  <br>Bootstrap 🎨 <br> GitHub 🐙<br> Node.js  🟢 <br>NestJS (para APIs) 🛡️ <br> MongoDB 🌱</h3>
         <h3></h3>
