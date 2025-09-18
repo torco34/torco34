@@ -1,8 +1,9 @@
 <body>
     <div >
         <h1>Torcoroma Arias Ascanio</h1>
-        <h2> Front-End Web Develope 👨‍💻 🌐</h2>
-         <h3> Additionally, I use Node.js, MongoDB, and NestJS to build complete web applications and improve my understanding of web development. </h3>
+        <h2> Full-Stack Software Engineer</h2>
+         <h3> I am a passionate Full-Stack Engineer with experience building scalable and user-friendly web applications.
+I specialize in Front-End development with React.js, and in Back-End development using Node.js + Express with MySQL as the main database. </h3>
         <h2> Tecnologías:  💻 </h2>
         <h3>JavaScript ☕️ <br> TypeScrip t🟦 <br>  React.js  ⚡ <br>  Vue.js 🌿 <br>  Quasar 🌌 <br>CSS3 🎨  <br>Bootstrap 🎨 <br> GitHub 🐙<br> Node.js  🟢 <br>NestJS (para APIs) 🛡️ <br> MongoDB 🌱</h3>
         <h3></h3>
