@@ -1,48 +1,58 @@
-<body>
-    <div >
-        <h1>Torcoroma Arias Ascanio</h1>
-        <h2> Full-Stack Software Engineer</h2>
-         <h3> I am a passionate Full-Stack Engineer with experience building scalable and user-friendly web applications.
-I specialize in Front-End development with React.js, and in Back-End development using Node.js + Express with MySQL as the main database. </h3>
-        <h2> Tecnologías:  💻 </h2>
-        <h3>JavaScript ☕️ <br> TypeScrip t🟦 <br>  React.js  ⚡ <br>  Vue.js 🌿 <br>  Quasar 🌌 <br>CSS3 🎨  <br>Bootstrap 🎨 <br> GitHub 🐙<br> Node.js  🟢 <br>NestJS (para APIs) 🛡️ <br> MongoDB 🌱</h3>
-        <h3></h3>
-        <hr>
-        <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portafolio  💼  </a><br>
-        <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn  🔗 </a><br>
-        <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">CV  📄</a>
-        <hr>
-        <h3> Proyectos de JavaScript! 🌟 🚀<h3>
-        <ul>
-            <li>
-                <strong>Ejercicio de Lógica:</strong>  Series de ejercicios utilizando JavaScript, CSS, HTML y DOM <br>
-                <small>Inicio: 28/02/2023 - Finalización: 10/04/2023</small><br>
-                <a href="https://torco34.github.io/aprendizajeTalentLogy/">Ver Proyecto</a>
-            </li>
-            <li>
-                <strong>Aprendizaje de Bootstrap:</strong> Prácticas de Grillas, Componentes de UI, Estilos Personalizados, Imágenes y Carrusel <br>
-                <small>Inicio: 28/04/2023 - Finalización: 10/05/2023</small><br>
-                <a href="https://torco34.github.io/bootstrap-web/#galeria/">Ver Proyecto</a>
-            </li>
-            <li>
-                <strong>Manipulación del DOM:</strong> Crear tableros, agregar tarjetas, editarlas y eliminarlas con JavaScript <br>
-                <small>Inicio: 16/06/2023 - Finalización: 04/07/2023</small><br>
-                <a href="https://torco34.github.io/administradorTareasTalentLogy/">Ver Proyecto</a>
-            </li>
-            <li>
-                <strong>Artistas web:</strong>  <br>
-                <small>Inicio: 02/12/2023 - Finalización: 04/01/2024</small>Esta página fue creada para manipular CSS y HTML utilizando JavaScript puro (vanilla JS).<br>
-                <a href="https://torco34.github.io/artistas-web/">Ver Proyecto</a>
-            </li>
-            <li>
-                <strong>API Rick and Morty:</strong> Consumiendo datos de la API <br>
-                <small>Inicio: 02/03/2022 - Finalización: 04/05/2022</small><br>
-                <a href="https://torco34.github.io/appRickAndMorty/">Ver Proyecto</a>
-            </li>
-        </ul>
-    </div>
-</body>
-
-</html>
 <!DOCTYPE html>
 <html lang="en">
+  <body>
+    <div>
+      <h1>Torcoroma Arias Ascanio</h1>
+      <h2> Full-Stack Software Engineer 👩‍💻 🌐</h2>
+      <h3>
+        I specialize in building complete web applications using React.js for
+        the front-end and Node.js with Express and MySQL for the back-end.
+      </h3>
+      <h2> Technologies 💻 </h2>
+      <h3>
+        JavaScript ☕️ <br>
+        TypeScript 🟦 <br>
+        React.js ⚡ <br>
+        CSS3 🎨 <br>
+        Bootstrap 🎨 <br>
+        GitHub 🐙 <br>
+        Node.js 🟢 <br>
+        Express 🚀 <br>
+        MySQL 🐬
+      </h3>
+      <hr>
+      <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portfolio 💼</a><br>
+      <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn 🔗</a><br>
+      <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">Resume 📄</a>
+      <hr>
+      <h3> JavaScript Projects 🌟 🚀 </h3>
+      <ul>
+        <li>
+          <strong>Logic Exercises:</strong> A series of exercises using JavaScript, CSS, HTML, and DOM <br>
+          <small>Start: 28/02/2023 - End: 10/04/2023</small><br>
+          <a href="https://torco34.github.io/aprendizajeTalentLogy/">View Project</a>
+        </li>
+        <li>
+          <strong>Bootstrap Learning:</strong> Practice with grids, UI components, custom styles, images, and carousel <br>
+          <small>Start: 28/04/2023 - End: 10/05/2023</small><br>
+          <a href="https://torco34.github.io/bootstrap-web/#galeria/">View Project</a>
+        </li>
+        <li>
+          <strong>DOM Manipulation:</strong> Create boards, add, edit, and delete cards with JavaScript <br>
+          <small>Start: 16/06/2023 - End: 04/07/2023</small><br>
+          <a href="https://torco34.github.io/administradorTareasTalentLogy/">View Project</a>
+        </li>
+        <li>
+          <strong>Artists Web:</strong> <br>
+          <small>Start: 02/12/2023 - End: 04/01/2024</small> This page was built to manipulate CSS and HTML using vanilla JavaScript.<br>
+          <a href="https://torco34.github.io/artistas-web/">View Project</a>
+        </li>
+        <li>
+          <strong>Rick and Morty API:</strong> Consuming data from the API <br>
+          <small>Start: 02/03/2022 - End: 04/05/2022</small><br>
+          <a href="https://torco34.github.io/appRickAndMorty/">View Project</a>
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>
