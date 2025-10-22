@@ -9,18 +9,19 @@
         the front-end and Node.js with Express and MySQL for the back-end.
       </h3>
       <h2> Technologies 💻 </h2>
-      <h3>
-        JavaScript ☕️ <br>
-        TypeScript 🟦 <br>
-        React.js ⚡ <br>
-        CSS3 🎨 <br>
-        Bootstrap 🎨 <br>
-        GitHub 🐙 <br>
-        Node.js 🟢 <br>
-        Express 🚀 <br>
-        MySQL 🐬
-      </h3>
-      <hr>
+<h3 class="text-lg sm:text-xl font-semibold leading-relaxed text-gray-800">
+  JavaScript ☕️ <br />
+  TypeScript 🟦 <br />
+  React.js ⚡ <br />
+  Vue.js 🟢 <br />
+  CSS3 🎨 <br />
+  Bootstrap 🎨 <br />
+  GitHub 🐙 <br />
+  Node.js 🟢 <br />
+  Express 🚀 <br />
+  MySQL 🐬
+</h3>
+  <hr>
       <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portfolio 💼</a><br>
       <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn 🔗</a><br>
       <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">Resume 📄</a>
