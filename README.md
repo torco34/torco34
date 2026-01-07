@@ -5,21 +5,18 @@
       <h1>Torcoroma Arias Ascanio</h1>
       <h2> Frontend Developer | React · TypeScript | Basic Back-end with Node.js 👩‍💻 🌐</h2>
       <h3>
-       I focus on building complete web applications using React.js for the frontend, 
-with basic backend development using Node.js, Express
+Frontend Developer with experience in real and freelance projects, building responsive interfaces with React, Next.js, and Tailwind CSS, and integrating frontend with backend using Node.js and Express.
       </h3>
       <h2> Technologies 💻 </h2>
 <h3 class="text-lg sm:text-xl font-semibold leading-relaxed text-gray-800">
   JavaScript ☕️ <br />
   TypeScript 🟦 <br />
   React.js ⚡ <br />
-  Vue.js 🟢 <br />
   CSS3 🎨 <br />
   Bootstrap 🎨 <br />
   GitHub 🐙 <br />
   Node.js 🟢 <br />
   Express 🚀 <br />
-  MySQL 🐬
 </h3>
   <hr>
       <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portfolio 💼</a><br>
