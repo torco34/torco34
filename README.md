@@ -5,7 +5,7 @@
       <h1>Torcoroma Arias Ascanio</h1>
       <h2> Frontend Developer | React · TypeScript | Basic Back-end with Node.js 👩‍💻 🌐</h2>
       <h3>
-Frontend Developer with experience in real and freelance projects, building responsive interfaces with React, Next.js, and Tailwind CSS, and integrating frontend with backend using Node.js and Express.
+Frontend Developer with experience in real and freelance projects, building responsive interfaces with React and Next.js, and working on frontend–backend integration, with basic knowledge of Node.js and Express.
       </h3>
       <h2> Technologies 💻 </h2>
 <h3 class="text-lg sm:text-xl font-semibold leading-relaxed text-gray-800">
