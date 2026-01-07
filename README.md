@@ -3,10 +3,10 @@
   <body>
     <div>
       <h1>Torcoroma Arias Ascanio</h1>
-      <h2> Full-Stack Software Engineer 👩‍💻 🌐</h2>
+      <h2> Frontend Developer | React · TypeScript | Basic Back-end with Node.js 👩‍💻 🌐</h2>
       <h3>
-        I specialize in building complete web applications using React.js for
-        the front-end and Node.js with Express and MySQL for the back-end.
+       I focus on building complete web applications using React.js for the frontend, 
+with basic backend development using Node.js, Express
       </h3>
       <h2> Technologies 💻 </h2>
 <h3 class="text-lg sm:text-xl font-semibold leading-relaxed text-gray-800">
