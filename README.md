@@ -17,6 +17,7 @@ Frontend Developer with experience in real and freelance projects, building resp
   GitHub 🐙 <br />
   Node.js 🟢 <br />
   Express 🚀 <br />
+  Vue.js <br/>
 </h3>
   <hr>
       <a href="https://torco34.github.io/portafolio/" target="_blank" rel="noopener noreferrer">Portfolio 💼</a><br>
