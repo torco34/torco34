@@ -23,7 +23,6 @@ Frontend Developer with experience in real and freelance projects, building resp
      <a href="https://my-porfolio-mu-teal.vercel.app/es" target="_blank" rel="noopener noreferrer">
   Portfolio 💼
 </a><br>
-
       <a href="https://www.linkedin.com/in/torcoroma-arias-ascanio-a20315227/" target="_blank" rel="noopener noreferrer">LinkedIn 🔗</a><br>
       <a href="https://torco34.github.io/portafolio/img/cvTorco.pdf" target="_blank" rel="noopener noreferrer">Resume 📄</a>
       <hr>
